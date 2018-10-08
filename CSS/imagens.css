@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo-play{
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.social{
+    flex-direction: column;
+}
+.social-face{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 5px;
+}
+.consoles{
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+
+}
+.consoles img {
+    border-radius: 25px;
+    border: 1px solid black;
+}
+.icone>span>i{
+    font-size: 30px;
+}

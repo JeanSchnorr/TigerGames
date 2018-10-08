@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.titulo-texto{
+    font-family: 'Slabo 27px', serif;    
+    font-size: 18px;
+    margin: 15px 25px;
+    border-bottom: 3px solid black;
+}
+.texto{
+    font-family: 'Slabo 27px', serif;    
+    font-size: 24px;
+    text-align: justify;
+    margin: 0 25px;
+    font-weight: 2.5px;
+}
+.titulo-console{
+    font-family: 'Slabo 27px', serif;    
+    font-size: 30px;
+    margin: 5px 25px;
+    border-bottom: 1px solid black;
+    padding-top: 20px;
+}
+.texto-rodape{
+    font-family: 'Times New Roman', Times, serif;    
+    text-decoration: none;
+    font-size: 18px;
+    color: #fff4ec;
+    padding: 5px;
+    padding-right: 30px;
+    margin-top: 5px;
+}
+.icone>span>span{
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+}
