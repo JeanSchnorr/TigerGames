@@ -78,6 +78,14 @@
     width: 98%;
     height: 40px;
     font-size: 17px;
+    font-size: 20px;
+
+}
+
+.form>fieldset>fieldset>input{
+    width: 98%;
+    height: 40px;
+    font-size: 17px;
 }
 .mensagem{
     width: 99%;
