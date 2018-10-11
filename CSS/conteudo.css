@@ -52,10 +52,16 @@
     margin-right: 60px;
     border: 1px solid black;  
 }
+
 .texto>table{
     display: flex;
     justify-content: center;
+    margin: 15px;
+}
+.texto>table>tbody{
     border: 2px solid black;
+    border-radius: 4px;
+    background-color: #fb924c;
 }
 .rodape{
     background-color: #f37a20;
