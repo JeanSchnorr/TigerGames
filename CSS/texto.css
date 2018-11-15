@@ -35,3 +35,26 @@
     font-family: 'Merriweather', serif;
     font-size: 20px;
 }
+@media only screen and (max-device-width: 900px) {
+    .titulo-texto{
+        font-family: 'Slabo 27px', serif;    
+        font-size: 45px;
+        margin: 15px 25px;
+        border-bottom: 3px solid black;
+        text-align: center;
+    }
+    .texto{
+        font-family: 'Slabo 27px', serif;    
+        font-size: 45px;
+        text-align: justify;
+        margin: 0 25px;
+        font-weight: 2.5px;
+    }
+    .titulo-console{
+        font-family: 'Slabo 27px', serif;    
+        font-size: 50px;
+        margin: 5px 25px;
+        border-bottom: 1px solid black;
+        padding-top: 20px;
+    }
+}

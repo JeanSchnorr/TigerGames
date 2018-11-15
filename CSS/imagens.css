@@ -29,3 +29,11 @@
 .icone>span>i{
     font-size: 30px;
 }
+@media only screen and (max-device-width: 900px) {
+    .consoles img {
+        border-radius: 25px;
+        border: 1px solid black;
+        width: 90%;
+        height:90%;
+    }
+}

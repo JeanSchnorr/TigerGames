@@ -118,7 +118,7 @@
         
     }
     .menu{   
-        border-right: 3px solid #ffba8c;
+        border:none;
         width: 80%;
         height: 100%;
     }

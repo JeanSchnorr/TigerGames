@@ -43,11 +43,35 @@ ul li a:hover{
 @media only screen and (max-device-width: 900px) {
     li ul {
         position: absolute;
-        top: 33px;
+        top: 43px;
         left: 0;
         display: none;
         border: 1px solid black;
         border-bottom-right-radius: 3px;
         border-top-right-radius: 3px;
+    }
+    ul li a {
+        font-family: 'Slabo 27px', serif;
+        display: block;
+        font-size: 35px;
+        text-decoration: none;
+        color: #fff4ec;
+        list-style: none;
+    
+    }
+    li:hover ul { 
+        display: block;
+        font-family: 'Slabo 27px', serif;
+        font-size: 24px;
+        background-color: #5e5d5f;
+    }
+    ul li a:hover{
+        font-family: 'Slabo 27px', serif;
+        background-color: #5e5d5f;
+        text-decoration:underline;
+        border: 1px solid black;
+        border-bottom-left-radius: 3px;
+        border-top-left-radius: 3px;
+        font-size: 35px;
     }
 }
