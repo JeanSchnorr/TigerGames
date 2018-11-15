@@ -29,6 +29,15 @@
 .icone>span>i{
     font-size: 30px;
 }
+.foto-loja>img{
+    width: 90%;
+    height: 90%;
+    border-radius: 5px;
+}
+.foto-loja{
+    display: flex;
+    justify-content: center
+}
 @media only screen and (max-device-width: 900px) {
     .consoles img {
         border-radius: 25px;
