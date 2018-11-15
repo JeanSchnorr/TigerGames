@@ -8,6 +8,12 @@
     margin: 15px 25px;
     border-bottom: 3px solid black;
 }
+.titulo-patrocinador{
+    font-family: 'Slabo 27px', serif;    
+    font-size: 18px;
+    margin: 15px 25px;
+    border-bottom: 3px solid black;
+}
 .texto{
     font-family: 'Slabo 27px', serif;    
     font-size: 24px;
@@ -15,13 +21,13 @@
     margin: 0 25px;
     font-weight: 2.5px;
 }
-.texto>h2{
+.texto-inicio>h2{
     font-family: 'Slabo 27px', serif;    
-    font-size: 40px;
+    font-size: 50px;
     padding-top: 20px;
     text-align: center;
 }
-.texto>p{
+.texto-inicio>p{
     font-family: 'Slabo 27px', serif;    
     font-size: 30px;
     padding-top: 20px;
